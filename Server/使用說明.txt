@@ -1,0 +1,3 @@
+修改ReceiverFilesExecute.java內部
+1. 修改IP(預設127.0.0.1)
+2. 修改Port(預設51239)

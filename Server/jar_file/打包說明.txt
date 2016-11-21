@@ -1,0 +1,3 @@
+1. 準備manifest.mf，並在內部宣告主程是
+2. 將class(含package資料夾)放置要打包的目錄下
+3. 使用打包指令: jar cvfm server.jar manifest.mf .
